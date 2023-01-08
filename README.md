@@ -59,6 +59,12 @@ httpd.handle_request()
 ```
 
 # OUTPUT:
+#
+#
+#
+#
+#
+#
 # Server Side Output
 ![GitHub Logo](/images/server.png)
 # Client Side Output
