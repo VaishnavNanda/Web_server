@@ -58,16 +58,10 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.handle_request()
 ```
 
-# OUTPUT:
-#
-#
-#
-#
-#
-#
-# Server Side Output
+# Output:
+# Server Side Output:
 ![GitHub Logo](/images/server.png)
-# Client Side Output
+# Client Side Output:
 ![GitHub Logo](/images/client.png)
 # RESULT:
 
